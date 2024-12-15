@@ -1,4 +1,4 @@
-![Pantalla_Inicio](index.png)
+![Pantalla_Inicio](img/index.png)
 
 # Proyecto Inmuebles 
 
