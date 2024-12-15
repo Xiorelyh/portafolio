@@ -183,7 +183,7 @@
   /* Sección Sobre Mí */
   
   #sobreMi {
-    padding-top: 3rem;
+    padding-top: 5rem;
   }
   
   .sobreMi-data {
@@ -193,12 +193,12 @@
   .sobreMi-info{
     display: flex;
     justify-content: space-evenly;
-    padding-top: 1rem;
+    padding-top: 5rem;
     padding-bottom: 2.5rem;
   }
   
   .sobreMi-info-box {
-    padding-inline: 1rem;
+    padding-inline: 5rem;
   }
   
   .img-sobreMi-estilo {
@@ -208,25 +208,25 @@
   /* Sección Habilidades */
   
   #habilidades {
-    padding-top: 0rem;
+    padding-top: 5rem;
   }
   
   /* Sección Proyectos */
   
   #proyectos {
-    padding-top: 3rem;
+    padding-top: 5rem;
   }
   
   /* Sección Contacto */
   
   #contacto {
-    padding-top: 3rem;
+    padding-top: 5rem;
   }
   
   
   .contact__icon{
     color: white;
-    font-size: 2rem;
+    font-size: 3rem;
     margin-right: var(--mb-0-75);
   }
   
@@ -257,7 +257,7 @@
     font-family: var(--body-font);
     font-family: var(--body-font);
     outline: none;
-    padding: 5rem .5rem .5rem 0;
+    padding: 1rem 0;
     width: 100%;
   }
   
