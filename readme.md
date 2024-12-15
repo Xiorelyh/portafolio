@@ -1,4 +1,4 @@
-![App Screenshot](img/index.png)
+![Pantalla_Inicio](https://github.com/xiorelyh/portafolio/blob/main/img/index.png)
 
 # Proyecto Inmuebles 
 
