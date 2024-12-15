@@ -1,4 +1,4 @@
-![Pantalla_Inicio](img/index.png)
+![App Screenshot](img/index.png)
 
 # Proyecto Inmuebles 
 
